@@ -1,5 +1,8 @@
 # SOS
 
+SOS: Score-based Oversampling for Tabular Data
+This repo contains the official implementation for the paper [SOS: Score-based Oversampling for Tabular Data]
+
 ### Introduction
 | 제목 | Tabular data向 재현데이터 성능 고도화 |
 |:---:|:---|
